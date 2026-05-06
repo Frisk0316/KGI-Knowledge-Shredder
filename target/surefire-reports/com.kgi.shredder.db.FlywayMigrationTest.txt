@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kgi.shredder.db.FlywayMigrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0 s -- in com.kgi.shredder.db.FlywayMigrationTest
