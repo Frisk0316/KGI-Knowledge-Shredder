@@ -1,4 +1,0 @@
-com/kgi/shredder/service/ai/MicroModuleBusinessValidatorTest.class
-com/kgi/shredder/service/ai/DocumentVectorizationServiceTest.class
-com/kgi/shredder/service/ai/OpenAiCheckpointValidationServiceTest.class
-com/kgi/shredder/db/FlywayMigrationTest.class
