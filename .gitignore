@@ -1,0 +1,37 @@
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Generated agent notes and non-README documentation
+.codex
+.claude/
+**/.claude/
+*.md
+!/README.md
+docs/
+*.docx
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+logs/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
