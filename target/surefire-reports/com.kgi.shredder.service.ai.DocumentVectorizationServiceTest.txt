@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.kgi.shredder.service.ai.DocumentVectorizationServiceTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in com.kgi.shredder.service.ai.DocumentVectorizationServiceTest

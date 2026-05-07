@@ -1,0 +1,112 @@
+Anti-Money Laundering (AML) and Know Your Customer (KYC) Compliance Guide
+
+Section 1: Regulatory Framework
+
+1.1 Overview of AML Regulations
+Anti-money laundering regulations are designed to prevent the financial system from being used for money laundering and terrorist financing. Financial institutions must comply with a comprehensive set of regulations including:
+
+- Bank Secrecy Act (BSA) - requires financial institutions to assist government agencies in detecting and preventing money laundering
+- USA PATRIOT Act - enhanced due diligence requirements for correspondent accounts and private banking
+- Financial Action Task Force (FATF) Recommendations - international standards for combating money laundering
+- EU Anti-Money Laundering Directives (AMLD) - European framework for AML compliance
+- Taiwan Money Laundering Control Act - domestic regulations for financial institutions operating in Taiwan
+
+1.2 Regulatory Bodies
+Key regulatory bodies overseeing AML compliance include:
+- Financial Supervisory Commission (FSC) in Taiwan
+- Financial Crimes Enforcement Network (FinCEN) in the US
+- Financial Conduct Authority (FCA) in the UK
+- FATF as the global standard-setting body
+
+Section 2: Know Your Customer (KYC) Requirements
+
+2.1 Customer Identification Program (CIP)
+All financial institutions must implement a CIP that includes:
+- Collection of identifying information (name, date of birth, address, identification number)
+- Verification of identity through documentary or non-documentary methods
+- Record-keeping of identification information and verification methods
+- Comparison against government lists of known or suspected terrorists
+
+2.2 Customer Due Diligence (CDD)
+CDD involves understanding the nature and purpose of customer relationships:
+- Identifying and verifying the identity of customers
+- Identifying and verifying beneficial owners (individuals owning 25% or more)
+- Understanding the nature and purpose of the customer relationship
+- Ongoing monitoring of customer transactions
+
+2.3 Enhanced Due Diligence (EDD)
+EDD is required for higher-risk customers and situations:
+- Politically Exposed Persons (PEPs) and their family members
+- Customers from high-risk jurisdictions
+- Correspondent banking relationships
+- Private banking clients
+- Non-face-to-face business relationships
+- Unusual or complex transaction patterns
+
+Section 3: Transaction Monitoring
+
+3.1 Suspicious Activity Reporting
+Financial institutions must file Suspicious Activity Reports (SARs) when they detect:
+- Transactions that involve funds derived from illegal activities
+- Transactions designed to evade reporting requirements
+- Transactions with no apparent lawful purpose
+- Patterns of transactions that suggest money laundering or terrorist financing
+
+3.2 Currency Transaction Reports (CTRs)
+CTRs must be filed for cash transactions exceeding $10,000 (or equivalent):
+- Single transactions above the threshold
+- Multiple related transactions (structuring detection)
+- Both deposits and withdrawals
+
+3.3 Red Flags for Money Laundering
+Common red flags that should trigger enhanced scrutiny:
+- Frequent large cash deposits followed by immediate wire transfers
+- Transactions inconsistent with the customer's known business or personal activities
+- Multiple accounts used to collect and funnel funds to a single account
+- Reluctance to provide identification or complete documentation
+- Unusual patterns of transactions just below reporting thresholds (structuring)
+- Use of shell companies or nominees to obscure beneficial ownership
+- Transactions involving high-risk jurisdictions without clear business purpose
+
+Section 4: Record Keeping and Training
+
+4.1 Record Retention Requirements
+- CIP records: 5 years after account closure
+- SAR records: 5 years from filing date
+- CTR records: 5 years from date of transaction
+- CDD documentation: duration of relationship plus 5 years
+
+4.2 Employee Training
+All employees must receive AML training covering:
+- Recognition of suspicious activities
+- Internal reporting procedures
+- Regulatory requirements and consequences of non-compliance
+- Role-specific training based on job function
+- Annual refresher training
+
+4.3 Independent Testing
+AML programs must be independently tested:
+- Annual testing by internal audit or external party
+- Assessment of program effectiveness
+- Testing of transaction monitoring systems
+- Review of SAR filing decisions
+- Evaluation of training program adequacy
+
+Section 5: Penalties for Non-Compliance
+
+5.1 Criminal Penalties
+- Fines up to $500,000 per violation
+- Imprisonment up to 10 years for willful violations
+- Enhanced penalties for violations related to terrorist financing
+
+5.2 Civil Penalties
+- Fines up to $25,000 per day for each violation
+- Cease and desist orders
+- Removal of officers and directors
+- Loss of banking charter or license
+
+5.3 Reputational Risk
+- Negative media coverage and public perception
+- Loss of correspondent banking relationships
+- Decreased customer confidence
+- Regulatory scrutiny and enhanced examination frequency

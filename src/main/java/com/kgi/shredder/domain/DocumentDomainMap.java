@@ -22,7 +22,7 @@ public class DocumentDomainMap {
     @JoinColumn(name = "doc_id", nullable = false)
     private SourceDocument sourceDocument;
 
-    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @ManyToOne(fetch = FetchType.EAGER, optional = false)
     @JoinColumn(name = "domain_id", nullable = false)
     private KnowledgeDomain knowledgeDomain;
 

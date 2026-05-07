@@ -1,0 +1,85 @@
+Life Insurance Fundamentals for Financial Advisors
+
+Chapter 1: Types of Life Insurance Products
+
+1.1 Term Life Insurance
+Term life insurance provides coverage for a specified period, typically 10, 20, or 30 years. If the insured dies during the term, the beneficiary receives the death benefit. Term policies are generally the most affordable type of life insurance, making them suitable for clients with temporary coverage needs such as mortgage protection or income replacement during working years.
+
+Key Features:
+- Fixed premium for the duration of the term
+- No cash value accumulation
+- Renewable at the end of the term (at higher premiums)
+- Convertible to permanent insurance in many cases
+- Death benefit paid tax-free to beneficiaries
+
+1.2 Whole Life Insurance
+Whole life insurance provides lifetime coverage with a guaranteed death benefit and a savings component known as cash value. The cash value grows at a guaranteed rate set by the insurer.
+
+Key Features:
+- Level premiums throughout the life of the policy
+- Guaranteed cash value accumulation
+- Potential for dividends (participating policies)
+- Policy loans available against cash value
+- Death benefit remains constant
+
+1.3 Universal Life Insurance
+Universal life insurance offers flexible premiums and adjustable death benefits. The cash value earns interest based on current market rates, subject to a guaranteed minimum.
+
+Key Features:
+- Flexible premium payments
+- Adjustable death benefit
+- Cash value growth linked to interest rates
+- Transparency in cost of insurance charges
+- Option to increase or decrease coverage
+
+Chapter 2: Underwriting Considerations
+
+2.1 Medical Underwriting
+The underwriting process evaluates the risk profile of the applicant. Key factors include:
+- Age and gender
+- Medical history and current health status
+- Family medical history
+- Tobacco and alcohol use
+- Occupation and hobbies
+- Driving record
+
+2.2 Financial Underwriting
+Financial underwriting ensures the coverage amount is appropriate relative to the applicant's financial situation:
+- Income replacement needs (typically 10-15x annual income)
+- Existing coverage and assets
+- Outstanding debts and liabilities
+- Business insurance needs (key person, buy-sell agreements)
+
+Chapter 3: Beneficiary Designations
+
+3.1 Primary and Contingent Beneficiaries
+Proper beneficiary designation is critical for ensuring death benefits reach intended recipients:
+- Primary beneficiary: First in line to receive proceeds
+- Contingent beneficiary: Receives proceeds if primary beneficiary predeceases the insured
+- Per stirpes vs. per capita distribution methods
+- Revocable vs. irrevocable beneficiary designations
+
+3.2 Special Considerations
+- Minor beneficiaries require a guardian or trust
+- Estate as beneficiary may subject proceeds to estate taxes and creditors
+- Community property states may require spousal consent for beneficiary changes
+- Regular review of beneficiary designations after major life events
+
+Chapter 4: Claims Process
+
+4.1 Filing a Claim
+The claims process involves:
+1. Notification to the insurance company
+2. Submission of death certificate and claim forms
+3. Review period (typically 30-60 days)
+4. Payment of death benefit to beneficiaries
+
+4.2 Contestability Period
+Most policies have a two-year contestability period during which the insurer can investigate and potentially deny claims based on material misrepresentation on the application.
+
+4.3 Exclusions
+Common exclusions include:
+- Suicide within the first two years (contestability period)
+- Death resulting from illegal activities
+- Material misrepresentation on the application
+- War or acts of terrorism (in some policies)
